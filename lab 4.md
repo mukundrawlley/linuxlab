@@ -102,3 +102,4 @@ Press CTRL+D to save and exit.
 
 Do you want me to **save this into a downloadable `.md` file** so you can directly use it in your Linux lab?
 ```
+![alt text](1.png)
