@@ -6,7 +6,6 @@
 This guide introduces some **fundamental Linux commands** with definitions and examples.  
 They are the building blocks for navigating and managing your files.  
 
-
 ````
 ## 📍 1. `pwd` — *Print Working Directory*
 
