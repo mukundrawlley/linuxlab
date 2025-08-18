@@ -54,7 +54,7 @@ sudo usermod -aG sudo alice   # Give Alice admin rights
 sudo deluser username
 sudo deluser --remove-home username   # Also delete home directory
 ```
-![alt text](<../images/LAB 3/2ND/11.png>)![alt text](<../images/LAB 3/2ND/11B.png>)
+![alt text](IMAGES/LAB_3/2ND/11.png)![alt text](IMAGES/LAB_3/2ND/11B.png)
 ---
 
 ## 🔹 3. File Permissions & Ownership
@@ -97,7 +97,7 @@ Example:
 sudo chown alice:alice myfile.txt
 ```
 ---
-![alt text](<../images/LAB 3/2ND/12.png>)
+![alt text](IMAGES/LAB_3/2ND/12.png)
 ---
 
 ## 🔹 4. Disk & System Monitoring
@@ -121,7 +121,7 @@ top      # Live system monitor (q to quit)
 htop     # Nicer version (needs install)
 ```
 ---
-![alt text](<../images/LAB 3/2ND/13.png>)
+![alt text](IMAGES/LAB_3/2ND/13.png)
 ---
 
 ## 🔹 5. Networking Tools
@@ -153,7 +153,7 @@ ss -tuln   # Modern, faster
 netstat -tuln   # Legacy alternative
 ```
 ---
-![alt text](<../images/LAB 3/2ND/14.png>)![alt text](<../images/LAB 3/2ND/14B.png>)
+![alt text](IMAGES/LAB_3/2ND/14.png)![alt text](IMAGES/LAB_3/2ND/14B.png)
 ---
 
 ## 🔹 6. Package Management
@@ -173,7 +173,7 @@ sudo apt remove git    # Uninstall
 brew install git
 ```
 ---
-![alt text](<../images/LAB 3/2ND/15.png>)
+![alt text](IMAGES/LAB_3/2ND/15.png)
 ---
 
 ## 🔹 7. Process Management

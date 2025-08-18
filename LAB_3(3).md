@@ -87,7 +87,7 @@ sudo usermod -g admin bob
 
 Changes **bob’s** primary group to **admin**.
 ---
-![alt text](<../images/LAB 3/3RD/1.png>)![alt text](<../images/LAB 3/3RD/1b.png>)
+![alt text](IMAGES/LAB_3/3RD/1.png)![alt text](IMAGES/LAB_3/3RD/1b.png)
 ---
 
 ## 📋 Viewing Users & Groups
@@ -112,7 +112,7 @@ id alice
 
 Shows **UID**, **GID**, and all groups **alice** belongs to.
 ---
-![alt text](<../images/LAB 3/3RD/2.png>)![alt text](<../images/LAB 3/3RD/2b.png>)![alt text](<../images/LAB 3/3RD/2c.png>)![alt text](<../images/LAB 3/3RD/2d.png>)![alt text](<../images/LAB 3/3RD/2e.png>)
+![alt text](IMAGES/LAB_3/3RD/2.png)![alt text](IMAGES/LAB_3/3RD/2b.png)![alt text](IMAGES/LAB_3/3RD/2c.png)![alt text](IMAGES/LAB_3/3RD/2d.png)![alt text](IMAGES/LAB_3/3RD/2e.png)
 ---
 
 
@@ -142,7 +142,7 @@ sudo chown :developers file.txt
 
 Now `file.txt` belongs to the **developers** group.
 ---
-![alt text](<../images/LAB 3/3RD/3.png>)
+![alt text](IMAGES/LAB_3/3RD/3.png)
 ---
 
 ## ⭐ Special Groups
@@ -167,7 +167,7 @@ sudo deluser --remove-home alice
 sudo delgroup developers
 ```
 ---
-![alt text](<../images/LAB 3/3RD/4.png>)
+![alt text](IMAGES/LAB_3/3RD/4.png)
 ---
 
 ## 📌 Summary

@@ -193,22 +193,22 @@ By the end of this lab, you can now:
 
 ---
 ## 🖼️ Screenshots
-![alt text](<images/LAB 4/2.png>)
+![alt text](IMAGES/LAB_4/2.png)
 ---
 ```
 ```
 ---
-![alt text](<images/LAB 4/3.png>)
+![alt text](IMAGES/LAB_4/3.png)
 ---
 ```
 ```
 ---
-![alt text](<images/LAB 4/4.png>)
+![alt text](IMAGES/LAB_4/4.png)
 ---
 ```
 ```
 ---
-![alt text](<images/LAB 4/5.png>)
+![alt text](IMAGES/LAB_4/5.png)
 ---
 
 # ✅ **End of Lab 4**
