@@ -103,12 +103,12 @@ Press CTRL+D to save and exit.
 
 Here’s how the commands might look in a real Linux terminal:
 
-![touch command example](1.png)![cp command example](2.png)
+![cp command example](2.png)
 ![mv command example](3.png)![echo command example](4.png)
 ![cat command example](5.png)
 
 ---
-```
+
 ✅ **End of Lab 4** — You’ve now learned how to create, copy, move, print, and view files in Linux! 🚀
 
 
