@@ -126,6 +126,7 @@ touch file1.txt file2.txt
 
 ---
 ---
-![alt text](images/6.png)
+![alt text](<images/LAB 1/6.png>)
+
 
 

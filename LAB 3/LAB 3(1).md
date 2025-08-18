@@ -52,7 +52,7 @@ cd ..           # Go back one level
 cd /            # Jump to root directory  
 cd ~            # Jump to home directory  
 ```
-![alt text](<../images/6 edited.png>)
+![alt text](<../images/LAB 3/1ST/6 edited.png>)
 ---
 
 ## 🔹 2. File & Directory Management
@@ -103,7 +103,7 @@ rm -r folder      # Delete a folder (recursive)
 ```
 ⚠️ **Caution:** No recycle bin → deleted means gone!
 ---
-![alt text](../images/7.png)
+![alt text](<../images/LAB 3/1ST/7.png>)
 ---
 
 ## 🔹 3. File Viewing & Editing
@@ -135,7 +135,7 @@ clear
 ```
 Shortcut: `CTRL + L`
 ---
-![alt text](../images/8a.png)![alt text](../images/8b.png)
+![alt text](<../images/LAB 3/1ST/8a.png>)![alt text](<../images/LAB 3/1ST/8b.png>)
 ---
 
 ## 🔹 4. System Commands
@@ -163,7 +163,7 @@ man ls
 ```
 Press `q` to quit the manual.
 ---
-![alt text](<../images/9 a.png>)
+![alt text](<../images/LAB 3/1ST/9 a.png>)
 ---
 
 ## 🔹 5. Search & Find
@@ -185,7 +185,7 @@ grep "hello" file.txt
 ```
 Searches for the word `hello` in `file.txt`.
 ---
-![alt text](../images/10.png)
+![alt text](<../images/LAB 3/1ST/10.png>)
 ---
 
 ## 🔹 6. Handy Shortcuts
