@@ -8,7 +8,7 @@ This guide will walk you through setting up **Parrot OS** inside **VirtualBox** 
 - Visit the official [Parrot OS website](https://parrotsec.org/download/).
 - Download the ISO image (choose **Parrot Security** or **Parrot Home** depending on your needs).
 
-![alt text](IMAGES/LAB_0/0.png)
+![alt text](IMAGES/LAB_0/a.png)
 
 ---
 
@@ -16,7 +16,7 @@ This guide will walk you through setting up **Parrot OS** inside **VirtualBox** 
 - Head to the [VirtualBox official site](https://www.virtualbox.org/).
 - Download and install VirtualBox (works on **Windows, Linux, and macOS**).
 
-![alt text](IMAGES/LAB_0/1.png)
+![alt text](IMAGES/LAB_0/b.png)
 
 ---
 
@@ -30,7 +30,7 @@ This guide will walk you through setting up **Parrot OS** inside **VirtualBox** 
    - **RAM:** Minimum 2 GB (4 GB+ recommended)  
    - **Disk:** At least 20 GB  
 
-![alt text](IMAGES/LAB_0/1(a).png)
+![alt text](IMAGES/LAB_0/c.png)
 
 ---
 
@@ -79,7 +79,9 @@ df -h
 free -m
 ```
 ---
-![alt text](IMAGES/LAB_0/3.png)![alt text](IMAGES/LAB_0/4.png)![alt text](IMAGES/LAB_0/5.png)![alt text](IMAGES/LAB_0/6.png)
+![alt text](IMAGES/LAB_0/e.png)![alt text](IMAGES/LAB_0/f.png)![alt text](IMAGES/LAB_0/h.png)![alt text](IMAGES/LAB_0/i.png)
+
+
 # ⚡ Common Challenges & Fixes
 
 | Challenge | Cause | Quick Fix |
